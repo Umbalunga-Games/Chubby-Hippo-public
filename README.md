@@ -1,7 +1,7 @@
 # Chubby-Hippo-public
 
 Hallo Beta-Tester!
-Unter "Releases" findet ihr die aktuellste Version des Spiels.
+Unter "Releases" findet ihr die aktuellste Version des Spiels sowohl für Windows, als auch für Mac.
 
 Steuerung: Tauchen mit Leertaste, Reset des Levels mit R
 
